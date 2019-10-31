@@ -15,7 +15,7 @@
         android:label="daily_drive"
         android:icon="@mipmap/ic_launcher"
         tools:ignore="GoogleAppIndexingWarning">
-        <-- Todo add your api key !-->
+        <!-- Todo add your api key -->
         <meta-data android:name="com.google.android.geo.API_KEY"
             android:value="YOUR-API-KEY"/>
         <activity
